@@ -1,4 +1,4 @@
 Stronka
 =======
 
-To bedzie moja pierwsza strona wwwx
+To bedzie moja pierwsza strona www.
